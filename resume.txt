@@ -1,0 +1,12 @@
+Site Reliability Engineer 
+
+Skills:
+-AWS (EC2, S3, VPC, EKS, CloudWatch, Lambda, ECR, IAM, Route 53, ALB, Auto Scaling, SSM, Secrets Manager)
+-Blue/Green Deployment, Canary Deployment
+-Docker, Kubernetes
+
+Experience:
+-Client: LSEG (London Stock Exchange Group)  |  Bangalore, India June 2024 – Present • Analyzed recurring production incidents and contributed to a 20% reduction in repeat issues by identifying root causes and implementing systematic preventive fixes. • Enhanced Datadog dashboards and alert configurations, reducing alert noise by 30% and significantly improving mean investigation time during incidents. • Built Python/Bash automation scripts for routine health checks and log analysis, eliminating ~1 hour/day of manual effort and reducing incident response time by 35%. • Supported infrastructure deployments using Terraform and Kubernetes, enabling stable and repeatable release processes across environments. • Participated in on-call rotations handling P1/P2 incidents, contributing to MTTR reduction through structured escalation and triage. • Contributed to the full incident lifecycle: detection, escalation, mitigation, and post-incident review, ensuring comprehensive root cause analysis with clear prevention steps. • Drove SLO-based monitoring improvements by aligning alerting thresholds with defined reliability targets and error budget policies, supporting active SLA adherence tracking and reporting. • Documented detailed RCA reports for customer and internal stakeholders, improving transparency and organizational learning. • Collaborated with development and operations teams using Jira and Confluence to track reliability initiatives and maintain runbooks.
+
+Summary:
+Site Reliability Engineer with 2 years of hands-on experience designing, maintaining, and optimizing production systems in cloud-native environments. Proven ability to lead incident management, root cause analysis, observability, and automation initiatives that measurably improve system reliability and reduce operational toil. Provides L2/L3 production support with 24x7 rotational on-call coverage, and is experienced in SLO-driven operations, error budget management, and proactive alerting, with a strong emphasis on cross-functional collaboration across development, DevOps, and production support teams. Consistently delivers continuous improvement through structured post-incident reviews, runbook documentation, and reliability-focused engineering practices that ensure resilient, high-availability services at scale.
